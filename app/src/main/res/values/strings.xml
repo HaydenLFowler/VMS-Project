@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VMS-Project</string>
+
+    <string-array name="visit_reason">
+        <item>Grounds</item>
+        <item>Gas</item>
+        <item>Construction</item>
+        <item>Visitor</item>
+        <item>Other</item>
+    </string-array>
+</resources>
